@@ -78,11 +78,11 @@
     content: 'HOURS';
 }
 
-#mins::after{
-    content: 'MINUTES';
+#min::after{
+    content: 'MIN';
 }
 
-#secs::after
+#sec::after
 {
-    content: 'SECONDS';
+    content: 'SEC';
 }

@@ -73,3 +73,16 @@
     bottom: -5px;
     transform: translateX(-50%);
 }
+
+#hrs::after{
+    content: 'HOURS';
+}
+
+#mins::after{
+    content: 'MINUTES';
+}
+
+#secs::after
+{
+    content: 'SECONDS';
+}

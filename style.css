@@ -86,3 +86,7 @@
 {
     content: 'SEC';
 }
+
+#colon::after{
+    content: '';
+}

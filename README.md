@@ -13,6 +13,7 @@ A simple and stylish digital clock web app built with HTML, CSS, and JavaScript.
 - Responsive and modern glassmorphism design
 - Easy to customize
 
+
 ## Getting Started
 
 ### Prerequisites
@@ -35,6 +36,7 @@ A simple and stylish digital clock web app built with HTML, CSS, and JavaScript.
      python3 -m http.server
      ```
      Then visit [http://localhost:8000](http://localhost:8000) in your browser.
+
 
 ## File Structure
 

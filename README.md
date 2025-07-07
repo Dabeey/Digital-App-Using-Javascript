@@ -56,8 +56,3 @@ digital-clock/
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-🚀 Built a stylish Digital Clock with HTML, CSS & JavaScript!
-⏰ Real-time updates, glassmorphism design, and easy to customize.
-Check it out & make your own!
-#JavaScript #WebDevelopment #100DaysOfCode
